@@ -1,0 +1,11 @@
+.gameCard {
+    position: relative;
+    padding: 25px 20px;
+    margin-bottom: 25px;
+    width: auto;
+    height: 400px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    background: var(--bgColor);
+    box
+}

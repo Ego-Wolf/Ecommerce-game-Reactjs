@@ -1,0 +1,13 @@
+.shopBagItem {
+    margin-bottom: 20px;
+}
+
+.shopBagItem tr {
+    margin-top: 20px !important;
+}
+
+.shopBagItem td,
+.shopBagItem th {
+    backgorund: transparent;
+    color: 
+}

@@ -1,0 +1,33 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+/* Boot */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css");
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary: #0d171f;
+  --second: #0998a8;
+  --bgColor: #192938;
+}
+
+h1,
+h2,
+h4,
+p {
+  color: #ffffff;
+}
+
+body {
+  position: relative;
+  background: var(--bgColor);
+  font-family: 'Poppins', sans-serif;
+  width: 100%;
+  min-height: 100vh;
+  overflow: hidden;
+}

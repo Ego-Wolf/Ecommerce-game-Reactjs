@@ -1,0 +1,11 @@
+.sideMenu {
+    width: 20%;
+    height: 100%;
+    padding: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+    background: var(-5px -5px 15px rgba)
+    display: flex;
+    flex-direction: column;
+    transition: 1s;
+}
